@@ -1,7 +1,3 @@
-# Password_Security_Checker
-Password length (8+ and 12+ characters) Character variety (uppercase, lowercase, numbers, symbols) Common password detection Pattern recognition (repeated chars, keyboard sequences
-
-
 # 🔐 Password Security Checker
 
 A comprehensive password security evaluation tool that analyzes password strength and provides actionable recommendations for improvement. Available as both a web application and Python command-line tool.
